@@ -1,0 +1,8 @@
+opencv-python
+pandas
+langchain-google-genai
+streamlit
+numpy
+google-cloud-aiplatform
+google-cloud-logging
+easyocr
